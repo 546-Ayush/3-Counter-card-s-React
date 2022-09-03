@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3-Counter-card-s-React/static/css/main.d4e1da2e.css",
+    "main.js": "/3-Counter-card-s-React/static/js/main.bb1024cc.js",
+    "static/js/787.7d110b22.chunk.js": "/3-Counter-card-s-React/static/js/787.7d110b22.chunk.js",
+    "index.html": "/3-Counter-card-s-React/index.html",
+    "main.d4e1da2e.css.map": "/3-Counter-card-s-React/static/css/main.d4e1da2e.css.map",
+    "main.bb1024cc.js.map": "/3-Counter-card-s-React/static/js/main.bb1024cc.js.map",
+    "787.7d110b22.chunk.js.map": "/3-Counter-card-s-React/static/js/787.7d110b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e1da2e.css",
+    "static/js/main.bb1024cc.js"
+  ]
+}
